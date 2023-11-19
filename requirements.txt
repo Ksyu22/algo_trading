@@ -1,0 +1,17 @@
+# packaging
+pip>=9
+
+# data science
+numpy
+pandas
+pandas_datareader
+scikit-learn
+statsmodels
+datetime
+PyPortfolioOpt
+
+# visualisation
+matplotlib
+
+# data
+yfinance
